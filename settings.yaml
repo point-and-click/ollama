@@ -1,0 +1,7 @@
+items:
+  - key: host
+    value: http://localhost:11434
+  - key: timeout
+    value: 60
+  - key: chat.model
+    value: llama3:8b
